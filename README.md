@@ -1,1 +1,1 @@
-# metasploitable-notes
+# metasploite-notes
